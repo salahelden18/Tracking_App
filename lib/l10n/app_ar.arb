@@ -1,0 +1,141 @@
+{
+    "slidingText": "تنقل جميع شحناتك السريعة عن طريق TNT و UPS و DHL و FEDEX. أسعار حصرية في الولايات المتحدة تبدأ من 5.95 يورو لعملاء Etsy!",
+
+    "kargomKolayFaetures": "مع شحني السهل تجد",
+
+    "kargomKolayFeatureList1": "السعر",
+    "kargomKolayFeatureList2": "التكنولوجيا",
+    "kargomKolayFeatureList3": "السهوله",
+    "kargomKolayFeatureList4": "الثقة",
+    "kargomKolayFeatureList5": "واجهة برمجة التطبيقات",
+    "kargomKolayFeatureList6": "الراحه",
+    "kargomKolayFeatureList7": "لوحة التحكم",
+
+    "kargoTakipContentDescription": "أسهل طريقة لتتبع الشحنات الدولية هي من خلال KargomKolay. معرفة مكان الشحنة التي قمت بإرسالها إلى الخارج ومتى ستصل إلى المستلم هي أسئلة مهمة يمكن الإجابة عليها من خلال تتبع الشحنات الدولية. مع KargomKolay، يمكنك تتبع شحنتك إلى أيٍّ من أكثر من 219 دولة بسهولة. للقيام بذلك، يجب عليك أولاً زيارة صفحتنا 'تتبع الشحنات الدولية'. قم بإدخال رقم التتبع، والذي يمكن العثور عليه على الشحنة، في المجال المخصص في أعلى الصفحة. هذا الرقم هو نفس رقم تتبع الشحنة، لذا من المهم التأكد من حصولك عليه أو طلبه إذا لم يتم توفيره. بمجرد إدخال 'رقم تتبع الشحنة' في الحقل المناسب والنقر على زر 'أين شحنتي؟'، ستعرف فورًا موقع شحنتك الحالي، سواء كانت في مطار أو فرع لشركة الشحن.",
+
+    "titleTracking": "تتبع الشحنات الدولية",
+
+    "hintText": "ادخل رقم التتبع",
+
+    "chooseACarrier": "اختر شركة الشحن",
+
+    "kargoWhere": "تتبع الشحنه",
+
+    "emptyErrorMessage": "ادخل رقم الشحنه من فضلك",
+
+    "noCarrierChosen": "يرجي اختيار شركه الشحن للاستمرار",
+
+    "englishLanguage": "الانجليزيه",
+
+    "turkishLanguage": "التركيه",
+
+    "arabicLanguage": "العربيه",
+
+    "carrierCompany": "الشركه الحامله",
+
+    "trackingNumber": "رقم التتبع",
+
+    "status": "الحاله",
+
+    "date": "التاريخ",
+
+    "movements": "التحركات",
+
+    "dhlArabicUnSupport": "DHL لا تدعم اللغه العربيه",
+
+    "continueInEnglish": "هل تريد الاستمرار باللغه الانجليزيه؟",
+
+    "linkedIn": "لينكد ان",
+    
+
+    "facebook": "فيسبوك",
+    
+
+    "instagram": "انستجرام",
+    
+
+    "youtube": "يوتيوب",
+    
+
+    "twitter": "تويتر",
+
+    "contactUs": "تواصل معنا",
+
+    "website": "موقعنا الالكتروني",
+
+    "calculatePrice": "احسب السعر",
+
+    "lanuchError": "لا يعمل الان",
+
+    "labelCreated": "تم تجهيز الاوراق",
+
+    "pickedUp": "تم استلامه",
+    
+    "enteredCustoms": "دخل الجمارك",
+    
+    "lastMile": "آخر ميل",
+
+    "delivered": "تم التوصيل",
+
+    "inTransit": "في مرحله انتقاليه",
+
+    "notDelivered": "لم يتم التسليم",
+
+    "returnToSender": "إرجاع إلى المرسل",
+
+    "returnedToSender": "تم إعادة إلى المرسل",
+
+    "takePrice": "احسب السعر",
+
+    "connectStore": "قم بربط متجرك",
+
+    "import": "الشحن الي تركيا",
+
+    "export": "الشحن من تركيا",
+
+    "add": "اضافه طرد",
+    
+    "delete": "حذف طرد",
+
+    "errorRequiredFields": "يرجي ادخال جميع الحقول",
+
+    "errorDimensions": "يرجى إدخال أبعاد الطرد",
+
+    "receiver": "المرسل",
+
+    "sender": "المستقبل",
+
+    "weight": "الوزن",
+
+    "height": "الارتفاع",
+
+    "length": "الطول",
+
+    "width": "العرض",
+
+    "chooseCountry": "اختر البلد",
+
+    "tradeType": "نوع التجارة",
+
+    "selectCurrency": "اختر العملة",
+
+    "document": "وثيقة",
+
+    "parcel": "طرد",
+
+    "calculate": "احسب",
+
+    "validityDate": "تاريخ صلاحية العرض",
+
+    "price": "السعر",
+
+    "estimatedTime": "الوقت المتوقع للتسليم",
+
+    "days": "ايام",
+
+    "lowestPrice": "اقل سعر"
+
+
+
+    
+}

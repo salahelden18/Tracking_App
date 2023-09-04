@@ -1,0 +1,142 @@
+{
+    "slidingText": "TÜM EXPRESS KARGOLARINIZ TNT, UPS, DHL VE FEDEX İLE TAŞITILMAKTADIR. ETSY müşterilerine özel 5,95 EUR’dan başlayan USA fiyatları!",
+
+    "kargomKolayFaetures": "KargomKolay ile Aradığın",
+
+    "kargomKolayFeatureList1":  "Fiyat",
+    "kargomKolayFeatureList2":  "Teknoloji",
+    "kargomKolayFeatureList3":  "Kolaylik",
+    "kargomKolayFeatureList4":  "Güven",
+    "kargomKolayFeatureList5":  "API",
+    "kargomKolayFeatureList6":  "Rahatlik",
+    "kargomKolayFeatureList7":  "Panel",
+
+    "kargoTakipContentDescription": "Yurtdışı kargo takip işleminin en kolay yolu da KargomKolay’dan geçiyor. Yurtdışına gönderdiğiniz bir kargonun nerede olduğu, alıcısına ne zaman ulaşacağı gibi önemli soruların cevabı yurtdışı kargo takip yapmakta yatıyor. KargomKolay ile 219+ ülkeden herhangi birine gönderdiğiniz kargonuzu takip etmek çok kolay. Bunun için öncelikle “Yurtdışı kargo takip” sayfamıza girmeniz gerekiyor. Sayfanın üst kısmında bulunan takip numaranızı giriniz alanına kargonuzun üzerindeki takip numaranızı girmeniz yeterli olacaktır. Bu barkod numarası aynı zamanda Kargo Takip numarası olduğu için yurtdışı kargo takibi yapmak istiyorsanız bu numaranın verilmemesi ya da unutulması durumunda mutlaka istemeniz gerekecektir. Size verilen “kargo takip numarasını” ilgili kutucuğa girip “Kargom nerede” butonuna bastığınızda kargonuzun o an dünyanın hangi havalimanında ya da kargo şirketinin hangi şubesinde olduğunu anlık olarak öğrenebilirsiniz.",
+
+    "titleTracking": "Yurt Dışı Kargo Takip",
+
+    "hintText": "Takip Numaranızı girin",
+
+    "chooseACarrier": "Taşıyıcı seçin.",
+
+    "kargoWhere": "Takip Et",
+
+    "emptyErrorMessage": "Takip Numaranızı girin",
+
+    "noCarrierChosen": "Devam etmek için bir taşıyıcı seçiniz.",
+
+    "englishLanguage": "Ingilizce",
+
+    "turkishLanguage": "Türkçe",
+
+    "arabicLanguage": "Arapça",
+
+    "carrierCompany": "Taşıyıcı",
+
+    "trackingNumber": "Takip Numarası",
+
+    "status": "Durum",
+
+    "date": "Tarih",
+
+    "movements": "detaylı Hareketler",
+
+    "dhlArabicUnSupport": "dhl Arapça desteklemiyor",
+
+    "continueInEnglish": "Arapça ile devam etmek ister misiniz?",
+
+    "linkedIn": "LinkedIn",
+    
+
+    "facebook": "Facebook",
+    
+
+    "instagram": "Instagram",
+    
+
+    "youtube": "Youtube",
+    
+
+    "twitter": "Twitter",
+
+    "contactUs": "Iletişime geçin",
+
+    "website": "Web Sitesi",
+
+    "calculatePrice": "Ücret Hesapla",
+
+    "lanuchError": "Başlatılamıyor",
+
+    "labelCreated": "Evraklar Oluşturuldu",
+
+    "pickedUp": "Alındı",
+    
+    "enteredCustoms": "Gümrüğe Girdi",
+
+    "lastMile": "Son Mil",
+
+    "delivered": "Teslim Edildi",
+
+    "notDelivered": "Teslim Edilmedi",
+
+    "inTransit": "Taşıma sürecinde",
+
+    "returnToSender": "Gönderene İade",
+
+    "returnedToSender": "Gönderene İade Edildi",
+
+    "takePrice": "Fıyat Hesapla",
+    
+    "connectStore": "Mağazanı bağla",
+
+    "import": "Yurt Dışından Getirt",
+
+    "export": "Yurt Dışına Gönder",
+
+    "add": "paket Ekle",
+    
+    "delete": "Paket Sil",
+
+    "errorRequiredFields": "Lütfen zorunlu alanları doldurun",
+
+    "errorDimensions": "Lütfen paketin ölçülerini girin.",
+
+    "receiver": "Alıcı",
+
+    "sender": "Gönderici",
+
+    "weight": "Ağırlık",
+
+    "height": "Yükseklik",
+
+    "length": "Uzunluk",
+
+    "width": "Genişlik",
+
+    "chooseCountry": "Ülke Seçin",
+
+    "tradeType": "Ticaret Türü",
+
+    "selectCurrency": "Para Birimi Seçin",
+
+    "document": "Belge",
+
+    "parcel": "Paket",
+
+    "calculate": "Hesapla",
+
+    "validityDate": "Teklif Geçerlilik Tarihi",
+
+    "price": "Fıyat",
+
+    "estimatedTime": "Tahmini Teslim Süresi",
+
+    "days": "Gün",
+
+    "lowestPrice": "En Düşük Fıyat"
+
+
+
+
+
+}

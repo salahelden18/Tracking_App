@@ -1,0 +1,348 @@
+{
+    "slidingText": "ALL YOUR EXPRESS SHIPMENTS ARE TRANSPORTED BY TNT, UPS, DHL, AND FEDEX. Exclusive USA prices starting from 5.95 EUR for Etsy customers!",
+    "@slidingText": {
+        "describtion": "The Sliding text"
+    },
+    "kargomKolayFaetures": "With KargomKolay You Find",
+    "@kargomKolayFaetures": {
+        "description": "features of kargom kolay"
+    },
+
+    "kargomKolayFeatureList1" : "Price",
+    "@kargomKolayFeatureList1": {
+        "description": "price list item"
+    },
+    "kargomKolayFeatureList2" : "Technology",
+    "@kargomKolayFeatureList2": {
+        "description": "Technology list item"
+    },
+    "kargomKolayFeatureList3" : "Convenience",
+    "@kargomKolayFeatureList3": {
+        "description": "Convenience list item"
+    },
+    "kargomKolayFeatureList4" : "Trust",
+    "@kargomKolayFeatureList4": {
+        "description": "Trust list item"
+    },
+    "kargomKolayFeatureList5" : "API",
+    "@kargomKolayFeatureList5": {
+        "description": "API list item"
+    },
+    "kargomKolayFeatureList6" : "Comfort",
+    "@kargomKolayFeatureList6": {
+        "description": "Comfort list item"
+    },
+    "kargomKolayFeatureList7" : "Dashboard",
+    "@kargomKolayFeatureList7": {
+        "description": "Dashboard list item"
+    },
+
+    "kargoTakipContentDescription": "The easiest way to track international shipments is through KargomKolay. Knowing the whereabouts of a package you sent abroad and when it will reach its recipient are important questions that can be answered by tracking international shipments. With KargomKolay, tracking your package to any of the 219+ countries is very easy. To do this, you need to first visit our 'International Shipment Tracking' page. Simply enter the tracking number, which can be found on your package, into the designated field at the top of the page. This tracking number is also known as the Shipment Tracking Number, so it is important to make sure you have it or request it if it hasn't been provided. Once you enter the 'shipment tracking number' into the appropriate box and click the 'Where is my package?' button, you will instantly find out the current location of your package, whether it's at an airport or a branch of the shipping company.",
+    "@kargoTakipContentDescription": {
+        "description": "Home Screen Content at the end of the page"
+    },
+
+    "titleTracking": "International Shipment Tracking",
+    "@titleTracking": {
+        "description": "Tracking Info"
+    },
+
+    "hintText": "Enter Your Tracking Number.",
+    "@hintText": {
+        "description": "Hint Text For The tracking Number Text Field"
+    },
+
+    "chooseACarrier": "Choose a Carrier",
+    "@chooseACarrier": {
+        "description": "Choose The Carrier Company"
+    },
+
+    "kargoWhere": "Track Shipment",
+    "@kargoWhere": {
+        "description": "Find Text For The Button"
+    },
+
+    "emptyErrorMessage": "Enter your tracking number",
+    "@emptyErrorMessage": {
+        "describtion": "When the user Enter Empty Tracking Number"
+    },
+
+    "noCarrierChosen": "Please Choose Carrier To Continue",
+    "@noCarrierChoosen": {
+        "description": "Error Message For Empty Carrier Company"
+    },
+
+    "englishLanguage": "English",
+    "@englishLanguage": {
+        "description": "English Language"
+    },
+
+    "turkishLanguage": "Turkish",
+    "@turkishLanguage": {
+        "description": "Turkish Language"
+    },
+
+    "arabicLanguage": "Arabic",
+    "@arabicLanguage": {
+        "description": "Arabic Language"
+    },
+
+    "carrierCompany": "Carrier Company",
+    "@carrierCompany": {
+        "description": "Carrier Company Title"
+    },
+
+    "trackingNumber": "Tracking Number",
+    "@trackingNumber": {
+        "description": "tracking number"
+    },
+
+    "status": "Status",
+    "@status": {
+        "description": "The Status of the shippment"
+    },
+
+    "date": "Date",
+    "@date": {
+        "description": "the date of the delivery"
+    },
+
+    "movements": "Detailed Events",
+    "@movements": {
+        "@description": "the movements keyword"
+    },
+
+    "dhlArabicUnSupport": "Dhl Does Not Support Arabic!",
+    "@dhlArabicUnSupport": {
+        "description": "dhl does not support Arabic Language"
+    },
+
+    "continueInEnglish": "Do You Want to Continue In English?",
+    "@continueInEnglish": {
+        "description": "if arabic is not supported asking the user for continue in english"
+    },
+
+    "linkedIn": "LinkedIn",
+    "@linkedin": {
+        "description": "linkedin url"
+    },
+
+    "facebook": "Facebook",
+    "@facebook": {
+        "description": "facebook url"
+    },
+
+    "instagram": "Instagram",
+    "@instagram": {
+        "description": "instagram url"
+    },
+
+    "youtube": "Youtube",
+    "@youtube": {
+        "description": "youtube url"
+    },
+
+    "twitter": "Twitter",
+    "@twitter": {
+        "description": "twitter url"
+    },
+
+    "contactUs": "Contact Us",
+    "@contactUs": {
+        "description": "Contact Us"
+    },
+
+    "website": "Web Site",
+    "@website": {
+        "description": "WebSite Keyword"
+    },
+
+
+    "calculatePrice": "Calculate Shipping",
+    "@calculatePrice": {
+        "@description": "Calculate price keyword"
+    },
+
+    "lanuchError": "Unable to launch",
+    "@lanuchError": {
+        "description": "for show snack bar error message for lanuchUrl package"
+    },
+
+    "labelCreated": "Label Created",
+  "@labelCreated": {
+    "description": "label created keyword"
+  },
+
+  "pickedUp": "Picked Up",
+  "@pickedUp": {
+    "description": "Picked Up keyword"
+  },
+
+  "enteredCustoms": "Entered Customs",
+  "@enteredCustoms": {
+    "description": "Entered Customs keyword"
+  },
+
+  "lastMile": "Last Mile",
+  "@lastMile": {
+    "description": "Last Mile keyword"
+  },
+
+  "delivered": "Delivered",
+  "@delivered": {
+    "description": "Delivered keyword"
+  },
+
+  "returnToSender": "Return To Sender",
+  "@returnToSender": {
+    "description": "Return To Sender Keyword"
+  },
+
+    "returnedToSender": "Returned To Sender",
+    "@returnedToSender": {
+        "description": "Returned To Sender Keyword"
+    },
+
+    "inTransit": "In Transit",
+    "@inTransit": {
+        "description": "In Transit Keyword"
+    },
+
+    "notDelivered": "Not Delivered",
+    "@notDelivered": {
+        "description": "Not Delivered Keyword"
+    },
+
+    "takePrice": "Calculate Shipping",
+    "@takePrice": {
+        "description": "take price keyword in Elevated Button"
+    },
+
+
+    "connectStore": "Connect Store",
+    "@connectStore": {
+        "description": "Connect Store keyword in Elevated Button"
+    },
+
+    "import": "Ship To Türkiye",
+    "@import": {
+        "description": "Import Keyword for the text field"
+    },
+
+    "export": "Ship From Türkiye",
+    "@export": {
+        "description": "Export Keyword for the text field"
+    },
+
+    "add": "Add Package",
+    "@add": {
+        "description": "Add Keyword"
+    },
+
+    "delete": "Delete Package",
+    "@delete": {
+        "description": "Delete Keyword"
+    },
+
+    "errorRequiredFields": "Please Fill Required Fields",
+    "@ErrorRequiredFields": {
+        "description": "Error message for required fields"
+    },
+
+    "errorDimensions": "Please Enter The Dimensions of the packages",
+    "@ErrorDimensions": {
+        "description": "Error Message if the package fields are empty"
+    },
+
+    "receiver": "Receiver",
+    "@receiver": {
+        "description": "Receiver Keyword"
+    },
+
+    "sender": "Sender",
+    "@sender": {
+        "description": "sender Keyword"
+    },
+
+    "weight": "Weight",
+    "@weight": {
+        "description": "Weight Keyword"
+    },
+
+    "height": "Height",
+    "@height": {
+        "description": "Height Keyword"
+    },
+
+    "length": "Length",
+    "@length": {
+        "description": "Length Keyword"
+    },
+
+    "width": "Width",
+    "@width": {
+        "description": "Width Keyword"
+    },
+
+    "chooseCountry": "Choose Country",
+    "@chooseCountry": {
+        "description": "Choose Country Keyword"
+    },
+
+    "tradeType": "Trade Type",
+    "@tradeType": {
+        "description": "Trade Type Drop Down Field"
+    },
+
+    
+    "selectCurrency": "Select Currency",
+    "@selectCurrency": {
+        "description": "Select Currency Drop Down Field"
+    },
+
+    "document": "Document",
+    "@document": {
+        "description": "Document Keyword"
+    },
+
+    "parcel": "Parcel",
+    "@parcel": {
+        "description": "parcel Keyword"
+    },
+
+    "calculate": "Calculate",
+    "@calculate": {
+        "description": "Calculate Keyword"
+    },
+
+    "validityDate": "Offer Validity Date",
+    "@validityDate": {
+        "description": "Offer Validity date Keyword" 
+    },
+
+    "price": "Price",
+    "@price": {
+        "description": "Price Keyword"
+    },
+
+    "estimatedTime": "Estimated Delivery Time",
+    "@estimatedTime": {
+        "description": "estimated time Keyword"
+    },
+
+    "days": "Days",
+    "@days": {
+        "description": "Days Keyword"
+    },
+
+    "lowestPrice": "Lowest Price",
+    "@lowestPrice": {
+        "description": "Lowest Price Keyword"
+    }
+
+
+
+
+
+}
+
